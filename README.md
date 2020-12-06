@@ -1,6 +1,1 @@
-# lab2
-
-
-hello world
-sid sujit khatey
-safal 
+Demonstrate the use of Table, Un-order and Order list using both HTML & CSS.
